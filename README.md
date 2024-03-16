@@ -1,4 +1,4 @@
-### Hey, I'm Akeel 👋🏽  
+# Hey, I'm Akeel 👋🏽  
 
 I'm a full-stack developer based in New York, and I'm passionate about creation and innovation. 
 
