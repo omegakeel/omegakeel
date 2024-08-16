@@ -1,6 +1,6 @@
 # Hey, I'm Akeel 👋🏽  
 
-I'm a full-stack developer based in New York, and I'm passionate about creation and innovation. 
+I'm a full-stack developer based in New York and passionate about creation and innovation. 
 
 - Check out my [website](https://akeel-portfolio.onrender.com/) to learn more about me.
  
@@ -18,7 +18,7 @@ I'm a full-stack developer based in New York, and I'm passionate about creation 
 
 - Quality over quantity is something I will always stand for.
 - As a kid, I wanted to work at Dunkin' Donuts to get free donuts.
-- It urks me if I don't give something my 110%.
+- It irks me if I don't give something my 110%.
 
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/akeelbutt/).
